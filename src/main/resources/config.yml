@@ -1,0 +1,7 @@
+sendEarningsTimeSeconds: 10
+PriceOfCactus: 500
+
+ActionBar: "&aPagamento de +%earns% por %cactus% cactos"
+FarmChat:
+  Enable: "&aAtivou notificações de pagamento automático."
+  Disable: "&cDesativou notificações de pagamento automático."

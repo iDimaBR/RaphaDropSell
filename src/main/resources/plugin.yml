@@ -1,0 +1,11 @@
+name: RaphaDropSell
+version: '${project.version}'
+main: com.github.idimabr.raphadropsell.RaphaDropSell
+api-version: 1.18
+prefix: RaphaDropSell
+authors: [ iDimaBR ]
+depend: [ PlotSquared ]
+softdepend: [ PlaceHolderAPI ]
+commands:
+  farmchat:
+    aliases: [chatfarm]
